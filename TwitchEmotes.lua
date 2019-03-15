@@ -1385,7 +1385,6 @@ local defaultpack={
 ["PepoThink"]="Interface\\AddOns\\TwitchEmotes\\Pepes\\PepoThink.tga:28:28",
 ["POGGERS"]="Interface\\AddOns\\TwitchEmotes\\Pepes\\POGGERS.tga:28:28",
 ["RandomPepe"]="Interface\\AddOns\\TwitchEmotes\\Pepes\\RandomPepe.tga:28:28",
-["RarePepe"]="Interface\\AddOns\\TwitchEmotes\\Pepes\\RarePepe.tga:28:28",
 ["REEE"]="Interface\\AddOns\\TwitchEmotes\\Pepes\\REEE.tga:28:28",
 ["SucksMan"]="Interface\\AddOns\\TwitchEmotes\\Pepes\\SucksMan.tga:28:28",
 ["WOAW"]="Interface\\AddOns\\TwitchEmotes\\Pepes\\WOAW.tga:28:28",
@@ -2087,6 +2086,11 @@ local defaultpack={
 ["zatchThink"]="Interface\\AddOns\\TwitchEmotes\\ZatcharyGaming\\zatchThink.tga:28:28",
 ["zatchThump"]="Interface\\AddOns\\TwitchEmotes\\ZatcharyGaming\\zatchThump.tga:28:28",
 ["zatchW"]="Interface\\AddOns\\TwitchEmotes\\ZatcharyGaming\\zatchW.tga:28:28",
+-- Schlongmotes
+["RarePepe"]="Interface\\AddOns\\TwitchEmotes\\Custom3\\RarePepe.tga:28:28",
+["forsenLicense"]="Interface\\AddOns\\TwitchEmotes\\Custom3\\forsenLicense.tga:28:28",
+["Pepega"]="Interface\\AddOns\\TwitchEmotes\\Custom3\\Pepega.tga:28:28",
+["Pog"]="Interface\\AddOns\\TwitchEmotes\\Custom3\\Pog.tga:28:28",
 };
 local emoticons={
 -- A_Seagull
@@ -3405,7 +3409,6 @@ local emoticons={
 ["PepoThink"]="PepoThink",
 ["POGGERS"]="POGGERS",
 ["RandomPepe"]="RandomPepe",
-["RarePepe"]="RarePepe",
 ["REEE"]="REEE",
 ["SucksMan"]="SucksMan",
 ["WOAW"]="WOAW",
@@ -4110,6 +4113,11 @@ local emoticons={
 ["zatchThink"]="zatchThink",
 ["zatchThump"]="zatchThump",
 ["zatchW"]="zatchW",
+-- Schlongmotes
+["RarePepe"]="RarePepe",
+["forsenLicense"]="forsenLicense",
+["Pepega"]="Pepega",
+["Pog"]="Pog",
 };
 local dropdown_options={
 
@@ -4124,10 +4132,11 @@ local dropdown_options={
 [09]=  {"Emojis",":blush:",":door:",":guitar:",":gun:",":joy:",":muscle:",":ok_hand:",":phone:",":point_right:",":rage:",":rat:",":sun_with_face:",":thinking:",":wheelchair:"},
 [10]=  {"FinalBossTV","finalBAYCHA","finalCLAP","finalDERP","finalDIDSOMEONESAY","finalDOOM","finalFP","finalFROST","finalGAR","finalGASM","finalGLAIVE","finalGLOB","finalTK","finalKAPPA","finalLEFT","finalLEWD","finalLUSTISM","finalPREPOT","finalRAGE","finalRIGHT","finalSULF","finalTONE"},
 [11]=  {"Forsen 1","forsen1","forsen2","forsen3","forsen4","forsenBanned","forsenBee","forsenBoys","forsenC","forsenCD","forsenChamp","forsenClown","forsenCpooky","forsenD","forsenDDK","forsenDED","forsenDiglett","forsenE","forsenEmote","forsenEmote2","forsenFajita","forsenFeels","forsenGun","forsenH","forsenHorsen","forsenIQ","forsenKek","forsenKnife","forsenL","forsenLUL","forsenLewd"},
-[12]=  {"Forsen 2","forsenLooted","forsenMoney","forsenMonkey","forsenO","forsenODO","forsenOG","forsenOP","forsenPepe","forsenPuke","forsenPuke2","forsenPuke3","forsenPuke4","forsenR","forsenRedSonic","forsenRP","forsenS","forsenSS","forsenSambool","forsenSheffy","forsenSkip","forsenSleeper","forsenStein","forsenSwag","forsenT","forsenTriggered","forsenW","forsenWhip","forsenWut","forsenX","forsenY", "forsenLicense"},
+[12]=  {"Forsen 2","forsenLooted","forsenMoney","forsenMonkey","forsenO","forsenODO","forsenOG","forsenOP","forsenPepe","forsenPuke","forsenPuke2","forsenPuke3","forsenPuke4","forsenR","forsenRedSonic","forsenRP","forsenS","forsenSS","forsenSambool","forsenSheffy","forsenSkip","forsenSleeper","forsenStein","forsenSwag","forsenT","forsenTriggered","forsenW","forsenWhip","forsenWut","forsenX","forsenY"},
 [13]=  {"Pepe 1","EZ","FeelsAmazingMan","FeelsBadMan","FeelsBetaMan","FeelsBirthdayMan","FeelsBlushMan","FeelsTastyMan","FeelsCoolMan","FeelsCopterMan","FeelsCuteMan","FeelsDorkMan","FeelsDrunkMan","FeelsDutchMan","FeelsEvilMan","FeelsGamerMan","FeelsGoodEnoughMan","FeelsGoodMan","FeelsGreatMan","FeelsHug","FeelsHugged","FeelsKekMan","FeelsMyFingerMan","FeelsOkayMan","FeelsPumpkinMan","FeelsSadMan","FeelsSleepyMan"},
-[14]=  {"Pepe 2","FeelsSnowMan","FeelsSnowyMan","FeelsThinkingMan","FeelsTired","FeelsWeirdMan","FeelsWowMan","HYPERS","JanCarlo","maximumautism","meAutism","monkaGIGA","monkaGun","monkaH","monkaMEGA","monkaOMEGA","monkaS","monkaT","NA","nanoMEGA","peep","PepeHands","PepeLaugh","pepeOK","PepoThink","POGGERS","RandomPepe","RarePepe", "REEE","SucksMan","WOAW"},
+[14]=  {"Pepe 2","FeelsSnowMan","FeelsSnowyMan","FeelsThinkingMan","FeelsTired","FeelsWeirdMan","FeelsWowMan","HYPERS","JanCarlo","maximumautism","meAutism","monkaGIGA","monkaGun","monkaH","monkaMEGA","monkaOMEGA","monkaS","monkaT","NA","nanoMEGA","peep","PepeHands","PepeLaugh","pepeOK","PepoThink","POGGERS","RandomPepe","REEE","SucksMan","WOAW"},
 [15]=  {"Vinesauce","vineAlien","vineBab","vineBadPC","vineBlind","vineBowie","vineBrainyot","vineChamp","vineClown","vineEscape","vineGasm","vineHard","vineHeart","vineJape","vineKirb","vineKorok","vineLoog","vineLoog3","vineLuigi","vineLUL","vineM8","vineMayro","vineMortis","vinePassive","vineRalph","vineRaptor","vineRizon","vineSanic","vineSchut","vineScoot","vineSponge","vineTalian","vineThink","vineTommy","vineTubby","vineWhat"},
+[16]=  {"Custom 3","RarePepe","forsenLicense","Pepega","Pog"},
 };  
 
 
