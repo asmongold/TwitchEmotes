@@ -10,4 +10,8 @@ Changelog:
 - Added 4 new emotes:
 - Pog, RarePepe, forsenLicense, Pepega
 
+23.03.2019
+- Added 5 new emotes:
+- DETH, forsenGa, monkaHmm, pepeJam, retroPepe
+
 
