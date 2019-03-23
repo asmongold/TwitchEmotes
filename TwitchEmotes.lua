@@ -2091,6 +2091,11 @@ local defaultpack={
 ["forsenLicense"]="Interface\\AddOns\\TwitchEmotes\\Custom3\\forsenLicense.tga:28:28",
 ["Pepega"]="Interface\\AddOns\\TwitchEmotes\\Custom3\\Pepega.tga:28:28",
 ["Pog"]="Interface\\AddOns\\TwitchEmotes\\Custom3\\Pog.tga:28:28",
+["DETH"]="Interface\\AddOns\\TwitchEmotes\\Custom3\\DETH.tga:28:28",
+["pepeJam"]="Interface\\AddOns\\TwitchEmotes\\Custom3\\pepeJam.tga:28:28",
+["monkaHmm"]="Interface\\AddOns\\TwitchEmotes\\Custom3\\monkaHmm.tga:28:28",
+["retroPepe"]="Interface\\AddOns\\TwitchEmotes\\Custom3\\retroPepe.tga:28:28",
+["forsenGa"]="Interface\\AddOns\\TwitchEmotes\\Custom3\\forsenGa.tga:28:28",
 };
 local emoticons={
 -- A_Seagull
@@ -4118,6 +4123,11 @@ local emoticons={
 ["forsenLicense"]="forsenLicense",
 ["Pepega"]="Pepega",
 ["Pog"]="Pog",
+["DETH"]="DETH",
+["pepeJam"]="pepeJam",
+["monkaHmm"]="monkaHmm",
+["retroPepe"]="retroPepe",
+["forsenGa"]="forsenGa",
 };
 local dropdown_options={
 
@@ -4136,7 +4146,7 @@ local dropdown_options={
 [13]=  {"Pepe 1","EZ","FeelsAmazingMan","FeelsBadMan","FeelsBetaMan","FeelsBirthdayMan","FeelsBlushMan","FeelsTastyMan","FeelsCoolMan","FeelsCopterMan","FeelsCuteMan","FeelsDorkMan","FeelsDrunkMan","FeelsDutchMan","FeelsEvilMan","FeelsGamerMan","FeelsGoodEnoughMan","FeelsGoodMan","FeelsGreatMan","FeelsHug","FeelsHugged","FeelsKekMan","FeelsMyFingerMan","FeelsOkayMan","FeelsPumpkinMan","FeelsSadMan","FeelsSleepyMan"},
 [14]=  {"Pepe 2","FeelsSnowMan","FeelsSnowyMan","FeelsThinkingMan","FeelsTired","FeelsWeirdMan","FeelsWowMan","HYPERS","JanCarlo","maximumautism","meAutism","monkaGIGA","monkaGun","monkaH","monkaMEGA","monkaOMEGA","monkaS","monkaT","NA","nanoMEGA","peep","PepeHands","PepeLaugh","pepeOK","PepoThink","POGGERS","RandomPepe","REEE","SucksMan","WOAW"},
 [15]=  {"Vinesauce","vineAlien","vineBab","vineBadPC","vineBlind","vineBowie","vineBrainyot","vineChamp","vineClown","vineEscape","vineGasm","vineHard","vineHeart","vineJape","vineKirb","vineKorok","vineLoog","vineLoog3","vineLuigi","vineLUL","vineM8","vineMayro","vineMortis","vinePassive","vineRalph","vineRaptor","vineRizon","vineSanic","vineSchut","vineScoot","vineSponge","vineTalian","vineThink","vineTommy","vineTubby","vineWhat"},
-[16]=  {"Custom 3","RarePepe","forsenLicense","Pepega","Pog"},
+[16]=  {"Custom 3","RarePepe","forsenLicense","Pepega","Pog", "DETH", "pepeJam", "monkaHmm", "retroPepe", "forsenGa"},
 };  
 
 
